@@ -161,8 +161,7 @@ const S={
     view:'home', movies:[], focus:null, lastFocus:null, playing:false, retry:0,
     imgObserver:null, gridCols:0, currentIndex:-1,
     headerElements:[], headerIndex:0,
-    categories: ['Todas','Acción','Animación','Aventura','Bélica','Ciencia ficción','Comedia','Crimen','Documental','Drama','Familia','Fantasía','Historia','Misterio','Música','Película de TV','Romance','Suspense','Terror','Western'],
-    currentCat: 'Todas', catIndex: 0
+    categories: ['Todas','Español','Ingles','Frances', catIndex: 0
 };
 
 function init() {
