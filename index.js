@@ -141,7 +141,7 @@ video{flex:1;width:100%}
         catIndex: -1,
         currentIndex: -1,
         currentCat: 'Todas',
-        categories: ['Todas','Acción','Comedia','Terror','Drama','Español','Ingles'],
+        categories: ['Todas','Español','Ingles','Frances'],
         gridCols: 4
     };
 
